@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "407303500920",
+    "firebase_url": "https://testdatabase-cafec.firebaseio.com",
+    "project_id": "testdatabase-cafec",
+    "storage_bucket": "testdatabase-cafec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407303500920:android:dfbd0d6a868218cddd298d",
+        "android_client_info": {
+          "package_name": "com.example.home_activity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407303500920-rcj7icrae5iupr6fne5ip131v64o3a63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.home_activity",
+            "certificate_hash": "d1def2dd3cf0d2a5708584199aad821e584b69cd"
+          }
+        },
+        {
+          "client_id": "407303500920-n99phnt65toqb115ceqvi7b73tlsa92s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB66o-uNz-zg9mOvEX5YL16VO9SkN1hmHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407303500920-n99phnt65toqb115ceqvi7b73tlsa92s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
